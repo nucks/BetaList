@@ -1,0 +1,64 @@
+.navbar-start {
+  color: #666;
+  display: inline-block;
+    padding-top: 15px;
+}
+.navbar-end {
+  display: flex;
+  justify-content: flex-end;
+}
+.navbar-link {
+  display: inline-block;
+}
+.navbar-header {
+  border-top: solid 3px #00ccd2;
+  display: flex;
+  justify-content: space-between;
+
+}
+.navbar-header a {
+  text-decoration: none;
+  color: #666;
+  border-radius: 25px;
+  padding: 1em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.navbar-header a:hover {
+  color: #000;
+  background-color: #eee;
+}
+.logo-border {
+  background-image: url(https://dmcg351jwkq99.cloudfront.net/assets/logo-2bc4292f9a200c70ed13d454b2ef199d.svg);
+  height: 42px;
+  width: 42px;
+  background-repeat: no-repeat;
+  border: solid 0.5px #eee;
+  margin: 0;
+  margin-top: 15px;
+  padding-left: 0;
+}
+.form-buttons {
+  border: solid 1px #00ccd2;
+  padding: 1em;
+  border-radius: 25px;
+  font-size: 12px;
+}
+.form-buttons a:hover {
+  background-color: #00ccd2;
+  color: #fff;
+}
+.title-headings {
+  text-align: center;
+}
+.second-heading {
+  font-family: "museo-sans", Helvetica, Arial, sans-serif;
+  width: 60%;
+  font-weight: 400;
+  font-size: 22px;
+  display: block;
+  line-height: 1.4;
+  margin: 0 auto;
+}
