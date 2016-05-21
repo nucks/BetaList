@@ -64,6 +64,11 @@
 }
 .advertisement {
   background-color: #000;
+  width: 92.5%;
+  margin: 0 auto;
+  margin-left: 8.5%;
+  height: 7em;
+  margin-bottom: 5%;
 }
 .week {
   color: #777777;
@@ -107,6 +112,39 @@ div > a > img {
   text-transform: uppercase;
   margin-top: 5px;
   margin-bottom: 5px;
+}
+.advertise {
+  color: #fff;
+  line-height: 1.1;
+  font-size: 16px;
+}
+.btn {
+background-color: #00ccd2;
+color: #fff;
+border-style: none;
+border-radius: 3px;
+padding: 8px;
+width: 50%;
+margin-left: 10px;
+}
+.input {
+  background-color: #ebfeff;
+  color: #009a9f;
+  padding: 8px;
+  border-radius: 3px;
+  width: 100%;
+}
+.subscribe {
+  display: flex;
+  height: 45%;
+  text-align: center;
+  margin-right: 7%;
+}
+.advertisement .row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 2%;
 }
 /*
 .box {
