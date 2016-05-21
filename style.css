@@ -62,3 +62,51 @@
   line-height: 1.4;
   margin: 0 auto;
 }
+.advertisement {
+  background-color: #000;
+}
+.week {
+  color: #777777;
+}
+
+div > a > img {
+  height: 100%;
+  width: 100%;
+}
+.large-container {
+  width: 90%;
+}
+.row {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 2%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+.box {
+  width: 18%;
+  display: inline-block;
+}
+.box a {
+  text-decoration: none;
+}
+.subtitle {
+  color: #777777;
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+/*
+.box {
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  text-align: center;
+  margin: 20px;
+}
+.boxes {
+  display: flex;
+  flex-flow: row wrap;
+}
