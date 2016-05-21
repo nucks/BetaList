@@ -1,4 +1,4 @@
-# BetaList Clone
+# BetaList.com Clone
 
 <h3> A personal project </h3>
 
